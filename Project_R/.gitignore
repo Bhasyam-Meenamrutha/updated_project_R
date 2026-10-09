@@ -1,0 +1,7 @@
+.env
+.env.hubble
+venv/
+__pycache__/
+*.pyc
+hr-dashboard/node_modules/
+hr-dashboard/dist/

@@ -1,0 +1,19 @@
+# Merged Employee Face Recognition + Hubble Mock API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Computer Vision / Face Recognition
+opencv-contrib-python
+numpy
+insightface
+onnxruntime
+
+# Environment / HTTP / Hubble integration
+python-dotenv
+httpx
+pymongo
+
+
+npm
